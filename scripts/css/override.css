@@ -1,0 +1,51 @@
+html {
+/*  background: #181818;*/
+}
+
+body {
+/*  color: #95e454;*/
+/*  background: #181818;*/
+/*  background-color: #181818;*/
+}
+
+.wrapper,.wrapper-narrow,.wrapper-permalink {
+  padding: 0px;
+}
+
+.fullname,.username {
+/*  color: #95e454;*/
+}
+
+#page-outer {
+/*  background: #181818;*/
+}
+
+
+.stream-item:not(.no-header-background-module) {
+/*  background: #181818;*/
+  border-left: 0px;
+  border-right: 0px;
+}
+
+.tweet:hover {
+/*  background-color: #181818;*/
+}
+
+
+.topbar,.js-topbar {
+  display: none;
+}
+
+.dashboard,.dashboard-left {
+  display: none;
+}
+
+.content-main {
+  float: none;
+  width: 100%;
+}
+
+.ProfileTweet-actionCountForPresentation {
+  display: none;
+}
+
